@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+    .video-container {
+        flex-direction: column;
+        align-items: center;
+    }
+    iframe {
+        width: 90%;
+    }
+}
